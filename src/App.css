@@ -1,7 +1,7 @@
 .container {
   margin-left: 800px;
   margin-bottom: 600px;
-  background-color: white;
+  background-color: lightgrey;
   width: 300px;
   height: 250px;
   border-radius: 15px;
@@ -11,7 +11,7 @@
 }
 
 .count {
-  color: gray;
+  color: black;
   font-size: 100px;
   display: flex;
   justify-content: center;
